@@ -1,3 +1,7 @@
+# Demo
+
+[Link to project](https://odunchyk.github.io/The-MET-landing-page/)
+
 # Overview
 
 The MET Landing Page is a visually appealing and responsive web page designed to represent the Metropolitan Museum of Art (MET). This project showcases the use of modern web development technologies to create a professional and user-friendly interface.
@@ -14,6 +18,6 @@ The MET Landing Page is a visually appealing and responsive web page designed to
 - Edit the SCSS files in the scss/ directory to update styles.
 - Follow the BEM methodology for consistent class naming conventions.
 
-# Acknowledgements:
+# Acknowledgements
 Inspired by The Metropolitan Museum of Art <br />
 Built as part of learning HTML and CSS
